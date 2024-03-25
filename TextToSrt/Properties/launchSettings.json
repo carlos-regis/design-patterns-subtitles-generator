@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextToSrt": {
+      "commandName": "Project",
+      "commandLineArgs": "data/script.txt data/script.srt 00:05:26"
+    }
+  }
+}
